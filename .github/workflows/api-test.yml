@@ -1,12 +1,9 @@
-
 name: ReqRes API Testing
-
 on:
   push:
     branches:
       - main
   workflow_dispatch:
-
 jobs:
   api-test:
     runs-on: ubuntu-latest
