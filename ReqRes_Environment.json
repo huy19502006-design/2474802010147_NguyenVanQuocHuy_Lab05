@@ -6,7 +6,7 @@
   "key": "baseUrl",
   "value": "https://reqres.in",
   "enabled": true
-}
+},
 		{
 			"key": "userId",
 			"value": "",
