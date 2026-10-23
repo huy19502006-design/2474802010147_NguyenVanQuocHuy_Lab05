@@ -2,12 +2,11 @@
 	"id": "37654b24-950e-4ee3-94df-7f298e637736",
 	"name": "2474802010147_Nguyễn Văn Quốc Huy_ReqRes_Env. ",
 	"values": [
-		{
-			"key": "baseUrl",
-			"value": "",
-			"type": "default",
-			"enabled": true
-		},
+	{
+  "key": "baseUrl",
+  "value": "https://reqres.in",
+  "enabled": true
+}
 		{
 			"key": "userId",
 			"value": "",
